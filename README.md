@@ -1,2 +1,2 @@
 # apnacollege-demo
-Author - Dhruv Mishra
+Author - Dhruv (apna college)
